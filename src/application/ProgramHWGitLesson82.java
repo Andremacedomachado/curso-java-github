@@ -9,6 +9,8 @@ public class ProgramHWGitLesson82 {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Hello wold!!");
+		System.out.println("Good morning");
+		System.out.println("good afternoon");
 
 	}
 
